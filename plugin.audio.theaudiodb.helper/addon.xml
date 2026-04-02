@@ -17,7 +17,7 @@
 		<description lang="es_ES">Busca videoclips, biografías, artistas similares y metadatos en TheAudioDB para los artistas de tu biblioteca musical. Proporciona resolución de DBID del artista, obtención de biografías desde múltiples fuentes (TheAudioDB, Wikipedia, Last.fm) y artistas similares con imágenes. Requiere soporte en el skin y el plugin de YouTube funcionando.</description>
 		<license>GPL-3.0-or-later</license>
 		<source>https://github.com/manfeed/plugin.audio.theaudiodb.helper</source>
-		<news>v1.0.2 - Code quality improvements, duplicate code refactored, crash fix in get_songs_for_artist, Kodi repo compliance.</news>
+		<news>v1.0.3 - Initial release. Code quality improvements, duplicate code refactored, crash fix in get_songs_for_artist, Kodi repo compliance.</news>
 		<assets>
 			<icon>resources/art/icon.png</icon>
 			<fanart>resources/art/fanart.jpg</fanart>
